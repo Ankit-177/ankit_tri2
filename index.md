@@ -45,6 +45,10 @@ title: Student Blog
         <td>5</td>
         <td> AP Calculus BC [L101] </td>
     </tr>
+    <tr>
+        <td>Online</td>
+        <td> Online US History 1 [S103] </td>
+    </tr>
     </table>
 
 ---
