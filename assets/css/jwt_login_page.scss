@@ -1,0 +1,18 @@
+---
+---
+
+$primary-bg-color: #8ec1da;
+$button-bg-color: rgba(38, 152, 255, 0.5);
+$button-hover-bg-color: rgba(38, 152, 255, 0.3) !important;
+$font-family: Verdana, sans-serif;
+$button-size: 10%;
+$box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+
+body {
+  width: 100%;
+  height: 100%;
+  margin: 0em 0%;
+  background-color: $primary-bg-color;
+  background-image: url("https://wallpapers.com/images/hd/kevin-de-bruyne-holding-soccer-ball-qto8jo0xyw2bmfrg.jpg");
+  background-position: center bottom;
+}
