@@ -1,3 +1,7 @@
+---
+layout: login_layout
+---
+
 <div id="login" class="Box box-shadow-medium rounded-1 col-12">
 
     <div class="center-div">
