@@ -170,7 +170,7 @@
     signup(username, password, email, name)
   })
   async function signup(username, password, email, name) {
-    const response2 = await fetch('http://127.0.0.1:8086/api/users', {
+    const response2 = await fetch('http://127.0.0.1:8086/api/users/', {
       method: 'POST',
       cache: 'no-cache', // Set the cache property
       headers: {
