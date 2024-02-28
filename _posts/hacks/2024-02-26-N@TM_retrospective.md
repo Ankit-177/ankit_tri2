@@ -114,40 +114,42 @@ permalink: /plans/week1
         <tbody>
             <tr>
                 <td>Input to your program</td>
-                <td> - </td>
+                <td> The video showcases inputting user information into the login and sign-up sections.</td>
             </tr>
             <tr>
                 <td>At least one aspect of the functionality of your program</td>
-                <td> - </td>
+                <td> The program either successfully logs a user in or creates a new account as long as the information is credible and accurate.</td>
             </tr>
             <tr>
                 <td>Output produced by your program</td>
-                <td> - </td>
+                <td> The program prompts the user upon succesful login or account creation, and redirects the user to all the appropriate locations in the website.</td>
             </tr>
             <tr>
                 <td>DOES NOT contain any distinguishing information about yourself</td>
-                <td> - </td>
+                <td> The video does not contain any distinguishing information about myself - any such information has been cropped out, which can be seen in the video.</td>
             </tr>
             <tr>
                 <td>DOES NOT contain voice narration (though text captions are encouraged)</td>
-                <td> - </td>
+                <td> The video does not contain voice narration. Rather, it uses captions for any explanations.</td>
             </tr>
             <tr>
                 <td>Video is either .webm, .mp4, .wmv, .avi, or .mov format</td>
-                <td> - </td>
+                <td> The video is in the .mp4 format.</td>
             </tr>
             <tr>
                 <td>Video is no more than 1 minute in length</td>
-                <td> - </td>
+                <td> The video is around 54 seconds long, which is less than 1 minute.</td>
             </tr>
             <tr>
                 <td>Video is no more than 30MB file size</td>
-                <td> - </td>
+                <td> The file size is less than 30 MB - it is 5.196 MB.</td>
             </tr>
         </tbody>
     </table>
 </body>
 </html>
+
+**[Video link](https://drive.google.com/file/d/1dee8v3HsguUVj9HUSlXZ7i2dGveOxv9b/view?usp=sharing)**
 
 <br>
 
@@ -156,5 +158,3 @@ permalink: /plans/week1
 [Edit and delete user functionalities for admin](https://github.com/Ankit-177/cpt_project/commit/c1d6bdc69b2af05c3287120d50e1cb25c3ef471c#diff-d2405490b89e560cdcbc1abe42af7a0de13941d6bc4e1e9213e2597511001bdd)<br><br>
 [user.py customization, auth_middleware.py addition, and major init.py and model users.py changes](https://github.com/Ankit-177/cpt_backend/commit/f523a154e59dd4405ff32ca20ba42b4e770d0c33)<br><br>
 [Admin role implementation in backend](https://github.com/Ankit-177/cpt_backend/commit/2c2d735be850f8dbc2ec6f608e2389069e24373f)
-
-
