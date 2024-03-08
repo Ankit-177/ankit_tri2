@@ -5,8 +5,7 @@ layout: post
 title: Individual seed
 description: Summary of individual work thus far; justification for 100% seed.
 type: tangibles
-courses: { compsci: {week: 13} }
-permalink: /plans/week1
+courses: { compsci: {week: 12} }
 ---
 
 ## Justification for 100% (3.0/3.0) seed based on individual work:
