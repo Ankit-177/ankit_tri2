@@ -11,7 +11,7 @@ courses: { compsci: {week: 12} }
 ## Justification for 100% (3.0/3.0) seed based on individual work:
 
 - I achieved above a 93% last trimester:
-![alt text](<../../images/AP CSP - Trimester 2 grade - Ankit.png>)
+![alt text](</ankit_tri2/images/AP CSP - Trimester 2 grade - Ankit.png>)
 
 ## Contributions to team:
 - As a group, only 2 of our members were active contributors. The other 2 members were completely inactive and did not contrinute to the success of the project much. However, as an individual, I rallied us together and pushed for active contribution every day leading up to the presentation of the CPT project. In many instances, I called for meetings in order to set definite tasks for every person in the group. In terms of the CPT project, I created the sign up and login features along with adding a new `email` parameter to our SQLite database. This allows users to enter their email address while creating an account, allowing the application to store the email to be constantly used in the application process for each college. Additionally, I created the welcome page that greeted the users upon visiting the website and allowed them to navigate to the login page. I also created the error pages that redirected the user to the appropriate error page when using the wrong login credentials or trying to navigate to a non-existent subpage.
@@ -27,17 +27,17 @@ courses: { compsci: {week: 12} }
 [Admin role implementation in backend](https://github.com/Ankit-177/cpt_backend/commit/2c2d735be850f8dbc2ec6f608e2389069e24373f)
 
 ## Github analytics - Proof of project contribution:
-![alt text](<../../images/AP CSP - Github analytics overall - Ankit.png>)
-![alt text](<../../images/AP CSP - Github analytics personal - Ankit.png>)
+![alt text](</ankit_tri2/images/AP CSP - Github analytics overall - Ankit.png>)
+![alt text](</ankit_tri2/images/AP CSP - Github analytics personal - Ankit.png>)
 
 ## Learnings and notes from CB MCQ:
 - <mark>Binary bits</mark>: A bit is the smallest unit of data that a computer can process and store. A bit state is represented using 1s and 0s as each bit is always in one of two physical states. Usually, all 8 bits are used. However, in some cases, not all bits are required, as seen in Q49:
-![Alt text](<../../images/AP CSP - Q49 mistake - Ankit.png>)
+![Alt text](</ankit_tri2/images/AP CSP - Q49 mistake - Ankit.png>)
 
 - <mark>Internet Protocol (IPv6)</mark>: The Internet Protocol (IP) is a protocol, or set of rules, for routing and addressing packets of data so that they can travel across networks and arrive at the correct destination. IPv6 is the most recent version of Internet Protocol (IP). It's designed to supply IP addressing and additional security to support the predicted growth of connected devices in IoT, manufacturing, and emerging areas like autonomous driving.
 
 - <mark>Algorithm run-times</mark>: We can categorize the run time of an algorithm according to how the number of steps increases as the input size increases. According to CollegeBoard, accessing elements `2n` times, or `2` times per element, is considered reasonable run-time. Also, accessing elements `n^2` times, or `n` times per element, is considered reasonable run-time. This is seen in Q50, which I got wrong:
-![Alt text](<../../images/AP CSP - Q50 mistake - Ankit.png>)
+![Alt text](</ankit_tri2/images/AP CSP - Q50 mistake - Ankit.png>)
 
 ### Final score for CB MCQ:
-![Alt text](<../../images/AP CSP - CB MCQ 2020 score - Ankit.png>)
+![Alt text](</ankit_tri2/images/AP CSP - CB MCQ 2020 score - Ankit.png>)
