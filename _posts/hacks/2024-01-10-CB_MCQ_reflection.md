@@ -6,7 +6,7 @@ title: CollegeBoard MCQ reflection
 description: Learnings and reflections from completing the CollegeBoard 2020 Practice MC
 type: tangibles
 courses: { compsci: {week: 6} }
-permalink: /plans/week1
+permalink: /plans/week2
 ---
 
 ## Learnings and notes:
