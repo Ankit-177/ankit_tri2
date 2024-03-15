@@ -10,7 +10,7 @@ permalink: /plans/week3
 ---
 
 # Popcorn Hack completion:
-Click [here](/ankit_tri2/_notebooks/2024-03-12-CSP-MCQ-2020-missed.ipynb) to access the completed popcorn hacks.
+Click [here](/plans/week2) to access the completed popcorn hacks.
 
 # CollegeBoard MCQ review and reflection:
 
