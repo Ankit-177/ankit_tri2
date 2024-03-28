@@ -13,11 +13,13 @@ permalink: /plans/week3
 
 Our ML project was a college prediction model that predicted whether a student would be admitted, waitlisted, or rejected from a specific college based on data like SAT score, GPA, and number of extracurriculars. We had a synthetic data set that is accurate but not representative of a real-life college, as real data sets or blocked behind privacy and legal barriers.
 
+
 ## Score from Mr. Mortensen
-<mark><strong>2.7/3</mark></strong>
+<mark><strong>2.7/3</strong>
 
 ### Mr. Mortensen's comments:
 - The quality of our project and code is very good. However, the volume of commits is not as high, showing a little less collaboration than is deemed exemplary. Therefore, we could have done a better job with making little, incremental changes rather than committing large changes all at once.
+
 
 ## Screenshots of the project:
 
@@ -31,6 +33,10 @@ Our ML project was a college prediction model that predicted whether a student w
 ![alt text](</ankit_tri2/images/AP CSP - Project screenshot 3 - Ankit.png>)
 
 - Waitlisted:
+![alt text](</ankit_tri2/images/AP CSP - Project screenshot 4 - Ankit.png>)
+
+- Rejected:
+![alt text](</ankit_tri2/images/AP CSP - Project screenshot 5 - Ankit.png>)
 
 
 ## Key commits:
