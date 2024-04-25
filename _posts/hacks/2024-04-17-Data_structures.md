@@ -1,5 +1,5 @@
 ---
-toc: false
+toc: true
 comments: true
 layout: post
 title: Data structures write-up
