@@ -19,7 +19,7 @@ permalink: /plans/datastructures
 - <strong>From VSCode using SQLite3 Editor, show your unique collection/table in database, display rows and columns in the table of the SQLite database.</strong>
 ![alt text](</ankit_tri2/images/AP CSP - DS write-up 1 - Ankit.png>)
 
-- <strong>>From VSCode model, show your unique code that was created to initialize table and create test data.</strong>
+- <strong>From VSCode model, show your unique code that was created to initialize table and create test data.</strong>
 ![alt text](</ankit_tri2/images/DS 2 (1).png>)
 ![alt text](</ankit_tri2/images/DS 2 (2).png>)
 
